@@ -4,3 +4,4 @@ plotly
 statsmodels
 thefuzz
 numpy
+matplotlib
