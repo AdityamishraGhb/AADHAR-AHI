@@ -1,0 +1,22 @@
+
+__pycache__/
+*.pyc
+# --- Folders ---
+venv/
+api_data_aadhar_biometric/
+api_data_aadhar_demographic/
+api_data_aadhar_enrolment/
+
+# --- Extra Python Scripts ---
+analyze_districts.py
+analyze_trends.py
+app_working.py
+load_data.py
+
+# --- Extra CSV Reports ---
+Insight_District_Ratios.csv
+Insight_Monthly_Trend.csv
+Insight_State_Summary.csv
+
+# --- Temporary/Lock Files ---
+.~lock.*
